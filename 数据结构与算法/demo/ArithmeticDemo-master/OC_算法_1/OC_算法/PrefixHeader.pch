@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  OC_算法
+//
+//  Created by cs on 2018/10/27.
+//  Copyright © 2018 cs. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "NSArray+Extension.h"
+#import "NSString+Extension.h"
+#import "ListNode.h"
+#import "LinkedArray.h"
+#import "Stack.h"
+#import "BinaryTreeNode.h"
+#import "TreeNode.h"
+
+#endif /* PrefixHeader_pch */
